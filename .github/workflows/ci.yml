@@ -22,6 +22,7 @@ jobs:
           ls -alrt .
           ls -alrt /
           ls -alrt /__w
+          ls -alrt /__w/firexkit
           env
           ls -alrt /github
           #cho $env
