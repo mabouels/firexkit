@@ -20,6 +20,10 @@ jobs:
           whoami
           pwd
           ls -alrt .
+          ls -alrt /
+          ls -alrt /__w
+          env
+          ls -alrt /github
           #cho $env
           #python -m venv venv
           #source venv/bin/activate
